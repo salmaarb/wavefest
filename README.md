@@ -7,3 +7,4 @@ Personne travaillant sur le projet :
 -KIMURA Chieko
 -GUILLAUMAUD Océane
 -BOUVARD Luc
+-RAGON Rémi
