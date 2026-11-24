@@ -8,3 +8,4 @@ Personne travaillant sur le projet :
 -GUILLAUMAUD Océane
 -BOUVARD Luc
 -RAGON Rémi
+-BAH Thierno Souleymane
