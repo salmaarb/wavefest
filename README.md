@@ -9,3 +9,4 @@ Personne travaillant sur le projet :
 -BOUVARD Luc
 -RAGON Rémi
 -BAH Thierno Souleymane
+-KOUAKOU Elie marc
