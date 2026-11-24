@@ -3,7 +3,7 @@
 | Vague                      | Périodes de vente à prix fixe, close à sa date ou quand son quota est épuisé.                                                                              |
 | Vague Early                | Periode de vente qui débute tôt à prix fixe, généralement moins cher.                                                                                     |
 | Vague Regular              | Periode de vente qui débute après la Vague Early à prix fixe.                                                                                               |
-| Vague Last Minute          | Periode de vente qui débute tard à prix fixe, généralement pluscher.                                                                                       |
+| Vague Last Minute          | Periode de vente qui débute tard à prix fixe, généralement plus cher.                                                                                       |
 | Festivalier                | Personne ayant payé son entrée pour participer sur une ou plusieurs journée de festival.                                                                     |
 | Organisateur               | Personne désigné pour faire la gestion et l'organisation d'une journée pour proposer un festival. Il assure également les ventes                            |
 | Pass                       | Element confirmant l'achat d'une place pour un festival ou plusieurs festivals                                                                                |
