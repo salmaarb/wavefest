@@ -6,16 +6,16 @@
 | Vague Last Minute          | Periode de vente qui débute tard à prix fixe, généralement plus cher.                                                                                       |
 | Festivalier                | Personne ayant payé son entrée pour participer sur une ou plusieurs journée de festival.                                                                     |
 | Organisateur               | Personne désigné pour faire la gestion et l'organisation d'une journée pour proposer un festival. Il assure également les ventes                            |
-| Pass                       | Element confirmant l'achat d'une place pour un festival ou plusieurs festivals                                                                                |
-| Bracelet                   | Il est donné après validation du passe a l'entré du festival, il permet d'effetuer des payement dans le festival                                             |
-| Bénévoles                | Ensemble de personnes qui collaborent avec le festival pour aider l'organisation du festival.                                                                   |
+| Pass                       | Element confirmant l'achat d'une place pour le festival, peut être pour un jour précis ou pour 3 jours                                                     |
+| Bracelet                   | Il est donné après validation du pass a l'entrée du festival, il permet d'effetuer des payement dans le festival                                             |
+| Bénévoles                | Ensemble de personnes qui agissent bénévolement avec le festival pour aider l'organisation.                                                                   |
 | RFID                       | Radio-Identification. Elle est utilisé pour faire gestion de porte monnaie sur le bracelet.                                                                    |
 | PSP                        | Prestataire de service de paiement                                                                                                                              |
 | Pivot                      | Etape importante qui marque un changement entre 2 étapes ( Tel que ; ouverture de la boutique, Confiramtion de commande, echange billet contre bracelet .. ) |
-| VIP                        | 'Very Important Person'. C'est la personne qui paye plus pour accéder à d'autre service.                                                                      |
-| Commande                   | Action d'achat d'un billet se qui le diffirencie du pass                                                                                                        |
+| VIP                        | 'Very Important Person'. C'est un festivalier qui paye plus pour accéder à des services supplémentaires.                                                                      |
+| Commande                   | Action d'achat d'un pass                                                                                                        |
 | Concert                    | Animation musicale                                                                                                                                              |
-| Festival                   | Ensemble de concert                                                                                                                                             |
+| Festival                   | Ensemble de concert, sur plusieurs jours                                                                                                                                     |
 | Tête d'affiche            | Groupe le plus important de la journée qui attire la plupart des festivalier                                                                                   |
 | Cashless                   | Matériels de paiement qui permettent d’utiliser un support comme porte-monnaie                                                                               |
 | Comission                  | Pourcentage des revenus qui vont vers les prestataires.                                                                                                         |
