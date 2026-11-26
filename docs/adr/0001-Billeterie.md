@@ -4,8 +4,11 @@ Statut : accepté
 En cas d'annulation d'une tête d'affiche avant le festival, à combien sont vendus les billets ?
 
 ## Options envisagées
-Billets vendus à 50% du prix
-Billets vendus au même prix
+
+Option 1 : Billets vendus à 50% du prix
+
+Option 2 : Billets vendus au même prix
+
 ## Décision
 Option 1 car elle est la solution la plus équitable pour les parties prenantes.
 
