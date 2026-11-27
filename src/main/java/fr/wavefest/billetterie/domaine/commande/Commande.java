@@ -54,7 +54,10 @@ public class Commande extends RacineAgregat {
     public void ajouterBillets(Formule formule, List<Tranche> tranches) {
         exigerStatut(StatutCommande.EN_COURS);
         int demandes = tranches.stream().mapToInt(t -> t.quantite().valeur()).sum();
-        // TODO TP3 R1 : refuser l'ajout si la commande dépasse 6 billets (LimiteDeBilletsDepasseeException)
+        // R1 : refuser l'ajout si la commande dépasse 6 billets (LimiteDeBilletsDepasseeException)
+        if(demandes >6 ){
+            throw new LimiteDeBilletsDepasseeException(id, demandes);
+        }
         tranches.forEach(t -> lignes.add(new LigneCommande(formule, t.quantite(), t.prixUnitaire(), t.vague())));
     }
 
