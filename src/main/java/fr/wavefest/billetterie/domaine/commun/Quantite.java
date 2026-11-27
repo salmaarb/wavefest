@@ -4,7 +4,6 @@ package fr.wavefest.billetterie.domaine.commun;
 public record Quantite(int valeur) {
 
     public Quantite {
-        // TODO TP3 : refuser une quantité nulle ou négative (ExceptionMetier)
        if (valeur <= 0) throw new QuantiteInvalideException(valeur);
     }
 
